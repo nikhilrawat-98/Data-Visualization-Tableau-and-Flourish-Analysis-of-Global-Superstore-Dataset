@@ -1,0 +1,2 @@
+# Data-Visualization-Tableau-and-Flourish-Analysis-of-Global-Superstore-Dataset
+This project focuses on creating interactive data visualizations for the Global Superstore Dataset to provide actionable insights for business decision-making. It analyzes global sales, profitability &amp; customer segmentation. Visualizations, built using Tableau &amp; Flourish, highlight sales trends, profitability, &amp; customer behavior insights
